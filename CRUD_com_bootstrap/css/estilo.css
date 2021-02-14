@@ -1,0 +1,89 @@
+
+
+
+#formulario_cadastro{
+    max-width: 400px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+/* paleta de cor https://www.colourlovers.com/palette/55400/Neon_Virus */
+#botao_cadastro_1 {
+ 
+    background-color: #228DFF;
+    border-color: #228DFF
+;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+#imagem_estoque {
+    max-width: 10%;
+    height: auto;
+    
+  }
+.container2{
+    margin-top:100px; 
+    max-width:600px;
+}
+
+
+.container_sucesso{
+    max-width: 600px;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;  
+    text-align: center;
+
+}
+
+.checkbox_campo{
+    float: left;
+}
+
+#formulario_alteracao{
+    max-width: 400px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+
+#botao_atualizar_1 {
+ 
+    background-color: #BA01FF;
+    border-color: #BA01FF;
+    color: white;
+}
+
+#botao_voltar {
+    background-color: #FF0092;
+    border-color:#FF0092;
+    text-align: right;
+}
+
+#bloco{
+    margin-top : 40px; 
+    max-width: 400px;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+
+.container3 {
+    margin-top:100px; 
+    max-width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid navy;
+    border-radius: 10px;
+    padding: 20px
+    
+
+}
+#box1{
+    box-shadow: 10px 10px 10px gray;
+}
